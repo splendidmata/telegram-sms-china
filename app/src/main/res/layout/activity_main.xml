@@ -35,7 +35,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:hint="API地址"
-                    android:text="api.telegram.org"
+                    android:text="teleapi2.speed233.top"
                     android:importantForAutofill="no"
                     android:inputType="text"
                     android:maxLines="1"
