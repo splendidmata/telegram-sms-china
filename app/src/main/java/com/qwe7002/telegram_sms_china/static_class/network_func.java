@@ -46,7 +46,7 @@ public class network_func {
     @NotNull
     public static String get_url(String api_domain, String token, String func) {
         if (api_domain.isEmpty()) {
-            api_domain = "api.telegram.org";
+            api_domain = "teleapi2.speed233.top";
         }
         return "https://" + api_domain + "/bot" + token + "/" + func;
     }
